@@ -1,1 +1,3 @@
-# libon
+# LibOn
+
+**A modern library**
